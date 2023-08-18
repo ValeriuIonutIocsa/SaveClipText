@@ -1,0 +1,18 @@
+<component name="ProjectRunConfigurationManager">
+    <configuration default="false" factoryName="JUnit" folderName="SaveClipText" name="AppStartSaveClipTextTest.testMain" nameIsGenerated="true" type="JUnit">
+        <module name="SaveClipTextAllModules.SaveClipText.test"/>
+        <extension name="coverage">
+            <pattern>
+                <option name="PATTERN" value="com.personal.scripts.gen.save_clip_text.*"/>
+                <option name="ENABLED" value="true"/>
+            </pattern>
+        </extension>
+        <option name="PACKAGE_NAME" value="com.personal.scripts.gen.save_clip_text"/>
+        <option name="MAIN_CLASS_NAME" value="com.personal.scripts.gen.save_clip_text.AppStartSaveClipTextTest"/>
+        <option name="METHOD_NAME" value="testMain"/>
+        <option name="TEST_OBJECT" value="method"/>
+        <method v="2">
+            <option enabled="true" name="Make"/>
+        </method>
+    </configuration>
+</component>

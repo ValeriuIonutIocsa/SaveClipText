@@ -1,0 +1,13 @@
+ext {
+    mainClass = 'com.personal.scripts.gen.save_clip_text.AppStart' + project.name
+    projectVersion = '0.0.1'
+    jarFolderPath = 'C:\\IVI\\Apps\\Scripts\\General\\SaveClipText'
+
+    subProjectNames = []
+    compileClassPaths = []
+    compileJarFilePaths = []
+    testCompileClassPaths = []
+    testCompileJarFilePaths = []
+}
+
+apply from: gradle.ext.rootDirPath + '/common_build.gradle'
